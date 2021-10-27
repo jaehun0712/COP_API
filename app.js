@@ -28,7 +28,7 @@ const contents = [
         name:'Java 공부하기',
         done:false
     }
-]
+] 
 
 // respond with "hello world" when a GET request is made to the homepage
 app.get('/', function(req, res) {
